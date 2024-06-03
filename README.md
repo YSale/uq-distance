@@ -14,4 +14,10 @@ Link to publication: TBA
 Please cite the paper as follows:
 
 ```
+@article{sale2023second,
+  title={Second-order uncertainty quantification: A distance-based approach},
+  author={Sale, Yusuf and Bengs, Viktor and Caprio, Michele and H{\"u}llermeier, Eyke},
+  journal={arXiv preprint arXiv:2312.00995},
+  year={2023}
+}
 ```
